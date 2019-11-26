@@ -14,6 +14,6 @@ public class ClassC {
 	int a = 1;
 	
 	void doSomething() {
-		System.out.println("Doing Something");
+		System.out.println("Doing Something Class C");
 	}
 }
